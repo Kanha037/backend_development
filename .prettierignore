@@ -1,0 +1,9 @@
+// Contents
+/node_modules
+/dist
+/coverage
+/ .vscode
+
+*.env
+.env
+.env.*
